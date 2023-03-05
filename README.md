@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Joerlund
+- 👋 Hi, I’m @Joerlund (DK)
 - 👀 I’m interested in car, boats, motorcycles, and my Water Rower.
 - 🌱 I’m currently learning about PI and the Open Rower Monitor.
 - 💞️ 
